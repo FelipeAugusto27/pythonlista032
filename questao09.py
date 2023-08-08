@@ -9,6 +9,9 @@ meses = int(input("Informe os meses de idade (considerando os anos informados): 
 dias = int(input("Informe os dias de idade (Considerando anos e meses informados): "))
 
 # Processamento
-total = anos
+ano_para_dia = (anos * 365)
+mes_para_dia = (meses * 30)
+total = mes_para_dia + ano_para_dia + dias
 
 # Output
+print(f"total:{total:.0f}")
