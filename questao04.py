@@ -1,6 +1,7 @@
 '''
 Desenvolver um programa que pergunte ao usuário o seu peso e sua altura.
-Ao final o programa deverá exibir na tela o IMC dessa pessoa. OBS: Peso em kg e altura em M
+Ao final o programa deverá exibir na tela o IMC dessa pessoa. OBS: Peso em kg e altura em M.
+Formula: IMC = peso / altura^2
 '''
 
 # Input
