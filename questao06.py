@@ -15,5 +15,5 @@ ganho = salario + (vendas * 17/100)
 # Output
 print(f"Vendedor: {nome}")
 print(f"Salário R${salario:.2f}")
-print(f"Comissão: 15%")
+print("Comissão: 15%") # A comissão é fixa.
 print(f"Salário + comissão: R${ganho:.2f}")
