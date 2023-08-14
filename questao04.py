@@ -8,7 +8,7 @@ kg = float(input("Informe seu em Kg:"))
 m = float(input("Informe sua altura em M:"))
 
 # Processamento
-imc = kg / pow(m,2)
+imc = kg / pow(m, 2)
 
 # Output
 print(f"Seu Indice de Massa Corporea é de {imc:.1f}")

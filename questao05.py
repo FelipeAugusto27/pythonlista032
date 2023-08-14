@@ -10,7 +10,7 @@ b = float(input("Informe um valor para b:"))
 
 # Processamento
 '''
-Eu posso fazer assim (criando novas variáveis ou fazer no print.
+Eu posso fazer assim (criando novas variáveis ou fazer no print).
 soma = a + b
 sub = a - b
 sub2 = b - a
